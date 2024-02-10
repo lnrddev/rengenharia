@@ -2,7 +2,7 @@
 
 ## Conceitos básicos
 
-- Raízes da equação de 2º grau.
+- [Raízes da equação de 2º grau](https://github.com/lnrddev/rengenharia/blob/main/codigos/equacao2grau.md).
 
 ## Engenharia Ambiental
 
