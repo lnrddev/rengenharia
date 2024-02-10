@@ -1,7 +1,3 @@
-
-
-
-
 # Raízes de equação do 2º grau
 
 ## Contextualizando
@@ -57,7 +53,7 @@ raizequacao2grau <- function(a, b, c) {
                   format(round(x_int_pos, 5), nsmall = 5), " e ",
                   format(round(x_int_neg, 5), nsmall = 5), "."))
   }
-  else #delta = 0  case
+  else #delta = 0 
     x_int <- (-b) / (2*a)
   return(paste0("A equação possui raíz única. A raíz é ",
                 x_int))
