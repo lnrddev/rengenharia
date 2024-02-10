@@ -1,4 +1,4 @@
-# rengenharia
+# Linguagem R aplicada à resolução de problemas de Engenharia
 
 ## Conceitos básicos
 
